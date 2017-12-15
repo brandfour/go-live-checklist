@@ -1,4 +1,4 @@
-Site Go Live Checklist
+#Site Go Live Checklist
 
 
 
@@ -6,9 +6,9 @@ This document is intended as guide to help you roll out a new website smoothly. 
 
 
 
-Public Facing Websites
+###Public Facing Websites
 
-Content
+####Content
 
 - Web copywriting has been proofread. Spelling and grammar are correct.
 - Paragraphs, headers, lists, and other formatting are correct.
@@ -20,7 +20,7 @@ Content
 
 
 
-SEO
+####SEO
 
 - Pages have unique page titles (fewer than 70 characters, includes keywords).
 - Pages have unique meta descriptions (fewer than 156 characters, includes keywords).
@@ -35,7 +35,7 @@ SEO
 
 
 
-Optimisation
+####Optimisation
 
 - Run Google Speed Test 
   [https://developers.google.com/speed/pagespeed/insights/]
